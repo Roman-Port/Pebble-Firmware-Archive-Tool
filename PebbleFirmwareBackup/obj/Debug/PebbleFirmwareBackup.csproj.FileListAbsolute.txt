@@ -1,0 +1,7 @@
+c:\users\roman\source\repos\PebbleFirmwareBackup\PebbleFirmwareBackup\bin\Debug\PebbleFirmwareBackup.exe.config
+c:\users\roman\source\repos\PebbleFirmwareBackup\PebbleFirmwareBackup\bin\Debug\PebbleFirmwareBackup.exe
+c:\users\roman\source\repos\PebbleFirmwareBackup\PebbleFirmwareBackup\bin\Debug\PebbleFirmwareBackup.pdb
+c:\users\roman\source\repos\PebbleFirmwareBackup\PebbleFirmwareBackup\obj\Debug\PebbleFirmwareBackup.csprojAssemblyReference.cache
+c:\users\roman\source\repos\PebbleFirmwareBackup\PebbleFirmwareBackup\obj\Debug\PebbleFirmwareBackup.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\PebbleFirmwareBackup\PebbleFirmwareBackup\obj\Debug\PebbleFirmwareBackup.exe
+c:\users\roman\source\repos\PebbleFirmwareBackup\PebbleFirmwareBackup\obj\Debug\PebbleFirmwareBackup.pdb
